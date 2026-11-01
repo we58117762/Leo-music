@@ -36,7 +36,7 @@ shī qù ài wǒ men jiù yào
 jiù yào
 yì diǎn diǎn màn màn de sǐ diào
 
-[Chorus 1: bright warm full voice in supported mid-register, buoyant guitar rhythm, clear memorable English hook]
+[Chorus 1: bright supported mid-register voice, buoyant guitar rhythm, clear memorable English hook]
 dāng wǒ
 shī qù nǐ nà yī miǎo
 xīn tū rán jiù biàn lǎo
@@ -80,7 +80,7 @@ shī qù ài wǒ men jiù yào
 jiù yào
 yì diǎn diǎn màn màn de sǐ diào
 
-[Final Chorus: full-band emotional peak, resonant chest-supported mixed voice, joyful sustained notes and natural vibrato]
+[Final Chorus: full-band emotional peak, resonant chest-supported mixed voice, open sustained notes, natural vibrato and bittersweet release]
 dāng wǒ
 shī qù nǐ nà yī miǎo
 xīn tū rán jiù biàn lǎo
