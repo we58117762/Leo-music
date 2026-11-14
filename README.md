@@ -8,6 +8,7 @@
 
 - [音乐创作共识](音乐创作共识.md)：长期音乐审美、提示词与已验证的创作原则。
 - [协作流程与交付规范](协作流程与交付规范.md)：双方分工、新歌流程、GitHub 交付要求与反馈规则。
+- 《Dear Friend》（祁紫檀原唱、单依纯 Live 歌词参考，青年男声双路线）：[v01-A 深夜来信·Chamber Soul](案例/DearFriend/v01-A-深夜来信-ChamberSoul-待试听.md) · [v01-B 破碎的万花筒·Cinematic Alternative Pop](案例/DearFriend/v01-B-破碎的万花筒-CinematicAlternativePop-待试听.md)——A 用室内乐 Soul 呈现有厚度而细腻的男声书信感，B 用合成器和电吉他主题打造电影感推进；两版均有完整中文 Lyrics、逐行对应的带声调拼音 Lyrics、独立 Style／Exclude／参数；[原始 Live LRC](案例/DearFriend/源稿-单依纯-DearFriend-live-2026-11-14.lrc) 已归档；待试听。
 - 《我要的飞翔》（许飞原曲，青年男声双路线）：[v01-A 那年夏天的风·青春 Acoustic Pop](案例/我要的飞翔/v01-A-那年夏天的风-青春AcousticPop-待试听.md) · [v01-B 去看更远的世界·电影感 Indie Pop-Rock](案例/我要的飞翔/v01-B-去看更远的世界-电影感IndiePopRock-待试听.md)——A 保留青春 OST 的清澈与温暖，B 以清音电吉他主题打造公路电影式展开；两版均含完整中文 Lyrics、对应的带声调拼音 Lyrics，以及各自的 Style／Exclude／参数；[Leo 提供的原始 LRC](案例/我要的飞翔/源稿-许飞-我要的飞翔-2026-11-14.lrc) 已归档；待试听。
 - 《二十二》（陶喆原曲，青年男声双路线）：[v01-A 二十二岁的日常·现代 Acoustic R&B](案例/二十二/v01-A-二十二岁的日常-现代AcousticRNB-待试听.md) · [v01-B 写给二十二岁·成长电影 Guitar Pop](案例/二十二/v01-B-写给二十二岁-成长电影GuitarPop-待试听.md)——两条路线均有完整中文 Lyrics、紧随其后的带声调拼音 Lyrics，各自 Style／Exclude／参数在切换歌词时保持不变；[Leo 提供的原始 LRC](案例/二十二/源稿-陶喆-二十二-2026-11-14.lrc) 已归档；待试听。
 - 《鱼》（陈绮贞原曲，男声双路线）：[v01-A 深海独白·现代独立民谣](案例/鱼/v01-A-深海独白-现代独立民谣-待试听.md) · [v01-B 逆光飞行·电影感独立摇滚](案例/鱼/v01-B-逆光飞行-电影感独立摇滚-待试听.md)——每版均附完整中文 Lyrics、下方逐行带声调拼音 Lyrics，同一路线的 Style／Exclude／参数不因歌词版本变化；[用户提供的原始 LRC](案例/鱼/源稿-陈绮贞-鱼-2026-11-14.lrc) 已归档；待试听。
