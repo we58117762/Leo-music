@@ -14,7 +14,7 @@
 | 音乐版本与路线 | v01-B；心跳的颜色·Groove-Driven Art Pop |
 | 创建／更新日期 | 2026-11-15 |
 | 状态 | 方案已交付／尚无本版试听反馈记录 |
-| 唱词来源与改词状态 | Leo 上传的原始 LRC；保留 40 行唱词的原有顺序与重复，不改词 |
+| 唱词来源与改词状态 | Leo 上传的原始 LRC；保留 36 行唱词的原有顺序与重复，不改词 |
 | 资料核验范围 | 已读取 LRC 全文、时间戳及演职信息；未取得可播放音频 |
 | 共识核对日期 | 2026-11-15；按 main 当前共识与模板 |
 
@@ -47,7 +47,7 @@
 
 ### 4.1 Lyrics｜中文
 
-\`\`\`text
+~~~text
 [Instrumental Intro - Syncopated Rhodes Chords, Bouncy Melodic Bass Hook, Muted Clean Guitar and Tight Live Groove Gradually Enter]
 
 [Verse 1A - Solo Young Male Vocal, Mezzo-Piano, Relaxed Midrange Slightly Behind the Beat, Clear Crisp Diction]
@@ -102,11 +102,11 @@
 
 [Outro - Return to Close Mezzo-Piano Male Midrange, Relaxed Clear Diction, Gentle Diminuendo, Rhodes Motif Reprise]
 [End]
-\`\`\`
+~~~
 
 ### 4.2 Lyrics｜拼音
 
-\`\`\`text
+~~~text
 [Instrumental Intro - Syncopated Rhodes Chords, Bouncy Melodic Bass Hook, Muted Clean Guitar and Tight Live Groove Gradually Enter]
 
 [Verse 1A - Solo Young Male Vocal, Mezzo-Piano, Relaxed Midrange Slightly Behind the Beat, Clear Crisp Diction]
@@ -161,15 +161,15 @@ wǒ de měi lì
 
 [Outro - Return to Close Mezzo-Piano Male Midrange, Relaxed Clear Diction, Gentle Diminuendo, Rhodes Motif Reprise]
 [End]
-\`\`\`
+~~~
 
 ### 4.3 Style of Music
 
-**字符数：待实测；交付前以正文实测不超过 950 为准。**
+**实测字符数：890 / 1000。**
 
-\`\`\`text
+~~~text
 Mandarin groove-driven art pop, playful, relaxed and self-assured. Solo clear youthful male tenor, crisp Mandarin diction, centered chest core and agile rhythmic phrasing. Syncopated Rhodes chords, bouncy melodic bass hook, muted clean guitar, tight live kick, rim/snare and hi-hat. Long intro establishes the Rhodes-bass groove. Verse 1: mezzo-piano, relaxed slightly behind the beat. First refrain: mezzo-forte with crisp word accents. Short-word motif: syncopated phrasing and bass-guitar call-and-response. Instrumental break: bass lead develops the hook while Rhodes and guitar trade replies. Second refrain grows firmer and more forward. Later motif rises to forte with supported mid-high mixed voice and brief melodic turns. Outro returns to close mezzo-piano with gentle diminuendo and Rhodes reprise. Preserve lyric order and melodic identity. Dry Professional Studio Vocal, 48kHz.
-\`\`\`
+~~~
 
 ### 4.4 Exclude
 
