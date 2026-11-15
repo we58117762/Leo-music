@@ -64,12 +64,16 @@
 任寂寞侵犯一遍一遍
 天空划着长长的思念
 
+[Instrumental Break 1 - Three-Note Synth Motif Drifts Across Stereo Field, Soft Electronic Percussion]
+
 [Verse 2 - Solo Male Tenor, Mezzo-Piano to Mezzo-Forte, Firmer Midrange Core, Moving Sub Bass and Minimal Beat]
 我的天空可有悬着想的云
 你的天空可会有冷的月
 放逐在世界的另一边
 任寂寞占据一夜一夜
 天空藏着深深的思念
+
+[Instrumental Break 2 - Reverse Guitar Swell, Synth Motif Reappears, Beat Gradually Builds]
 
 [Pre-Chorus 1 - Solo Male Tenor with Subtle Stereo Doubles, Mezzo-Forte, First 'My Sky' Repeat Begins to Widen]
 我的天空 我的天空
@@ -105,12 +109,16 @@ piāo liú zài shì jiè de lìng yì biān
 rèn jì mò qīn fàn yí biàn yí biàn
 tiān kōng huá zhe cháng cháng de sī niàn
 
+[Instrumental Break 1 - Three-Note Synth Motif Drifts Across Stereo Field, Soft Electronic Percussion]
+
 [Verse 2 - Solo Male Tenor, Mezzo-Piano to Mezzo-Forte, Firmer Midrange Core, Moving Sub Bass and Minimal Beat]
 wǒ de tiān kōng kě yǒu xuán zhe xiǎng de yún
 nǐ de tiān kōng kě huì yǒu lěng de yuè
 fàng zhú zài shì jiè de lìng yì biān
 rèn jì mò zhàn jù yí yè yí yè
 tiān kōng cáng zhe shēn shēn de sī niàn
+
+[Instrumental Break 2 - Reverse Guitar Swell, Synth Motif Reappears, Beat Gradually Builds]
 
 [Pre-Chorus 1 - Solo Male Tenor with Subtle Stereo Doubles, Mezzo-Forte, First 'My Sky' Repeat Begins to Widen]
 wǒ de tiān kōng, wǒ de tiān kōng
