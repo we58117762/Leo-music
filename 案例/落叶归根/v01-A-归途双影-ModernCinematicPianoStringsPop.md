@@ -224,7 +224,7 @@ Nà jì jié jiào zuò jì mò
 Bēi bāo sāi mǎn le jiā yòng
 Lù jiù zhè yàng kāi shǐ zǒu
 
-[Pre-Chorus 2 - Both Voices, Female Lead with Male Lower Harmony, More Breath Support and Crescendo; Full Low Strings]
+[Pre-Chorus 2A - Both Voices, Female Lead with Male Lower Harmony, More Breath Support and Crescendo; Full Low Strings]
 Rì bú jiàn tài yáng de nuǎn
 Yè bú jiàn yuè guāng de lán
 Bù dé bù xuǎn zé hán lěng de kāi shǐ
