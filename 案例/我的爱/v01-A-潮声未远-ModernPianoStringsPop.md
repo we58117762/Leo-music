@@ -212,8 +212,10 @@ qián yì shí nà cái shì wǒ zhēn ài
 
 ### 4.3 Style of Music
 
+字符数：**928 / 1000**（含空格、标点；只计下方输入正文，不含标题与代码块围栏）。
+
 ~~~text
-Modern Mandarin piano and strings pop ballad, preserving the familiar melodic identity and tender emotional arc while refreshing the production. Solo warm clear young male tenor, natural Mandarin diction, centered chest resonance, expressive legato and restrained natural vibrato. Piano is the harmonic core, supported by flowing legato strings, lyrical violin and delicate flute responses, warm melodic bass and restrained live drums. Intro: piano and soft strings establish the theme. Verses: close supported male midrange with sparse piano. Pre-chorus: bass enters and strings gently lift. Chorus: open heartfelt male vocal, piano chords and legato strings, never bombastic. Post-chorus: flute and violin answer the vocal. Extended instrumental passage: piano develops the main theme with flute lead and violin counterline. Bridge: arrangement returns to piano and low strings. Final chorus: fuller strings and live drums, warm sustained male phrases, controlled emotional lift. Coda returns to intimate voice, piano and flute. Preserve reference melody, phrasing and pauses. Dry Professional Studio Vocal, 48kHz.
+Modern Mandarin piano-and-strings pop ballad; tender, warm, spacious. Preserve reference melody, phrasing and pauses with refreshed production. Solo warm clear young male tenor, natural Mandarin, centered chest resonance, expressive legato, subtle vibrato. Piano leads flowing strings, lyrical violin, delicate flute replies, melodic bass and restrained live drums. Intro: piano-string theme. Verses: close supported midrange over sparse piano. Pre-chorus: bass enters, strings lift. Choruses: open heartfelt singing, piano chords and legato strings. Post-choruses: flute and violin answer the voice. Extended instrumental: piano develops the theme, flute leads, violin counterpoint. Bridge: return to piano and low strings. Final chorus: fuller strings and drums, warm sustained male phrases with controlled lift. Coda: intimate voice, piano and flute; opening motif resolves in the outro. Dry Professional Studio Vocal, 48kHz.
 ~~~
 
 ### 4.4 Exclude
@@ -251,6 +253,7 @@ Modern Mandarin piano and strings pop ballad, preserving the familiar melodic id
 | 日期 | 音乐版本 | 变更／依据 | 实际反馈与状态 |
 |---|---|---|---|
 | 2026-11-15 | v01-A | 以原曲钢琴与弦乐气质为基础，进行现代男声重新制作 | 方案已交付；尚无试听反馈 |
+| 2026-11-15 | v01-A（Style 长度修正） | Style 从 1116 精简至 928 字符；音乐方向、中文／拼音 Lyrics、Exclude 与参数不变 | 尚无试听反馈；此次为输入长度修正 |
 
 ## 6. 原始资料与关联文件
 
