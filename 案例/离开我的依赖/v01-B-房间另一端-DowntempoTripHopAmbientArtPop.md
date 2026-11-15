@@ -180,9 +180,11 @@ wǒ xiǎng yào tòng kuài de lí kāi wǒ de yī lài
 
 ### 4.3 Style of Music
 
-\`\`\`text
-Mandarin downtempo trip-hop and ambient art-pop, intimate memory-fragment atmosphere, not rock. Solo warm youthful male tenor, close centered vocal, clear Mandarin, restrained chest resonance, subtle layered doubles on key phrases and controlled natural vibrato. Deep rounded sub bass, sparse broken-beat drums, filtered piano fragments, reversed clean-guitar swells, muted percussion, soft low strings and restrained atmospheric synth textures. Intro: distant piano fragments and reversed guitar. Verses: exposed close vocal over a low pulse. Chorus 1: broken beat and sub bass enter; harmony opens sideways rather than simply getting louder. Instrumental break: piano motif fractures and recombines. Verse 2: rhythm returns with missing accents. Chorus 2: wider stereo layers and deeper low end. Bridge: percussion dissolves to near silence, bare voice and sparse piano. Final chorus: half-time pulse, low strings and airy male doubles create a controlled emotional release, not a rock climax. Last repeated line becomes close and solitary; fragmented piano and reversed texture dissolve. Preserve lyric order and core melodic identity while allowing spacious new phrasing. Dry Professional Studio Vocal, 48kHz.
-\`\`\`
+字符数：**927 / 1000**（含空格、标点；只计下方输入正文，不含标题与代码块围栏）。
+
+```text
+Mandarin downtempo trip-hop / ambient art-pop; intimate memory fragments. Solo warm young male tenor, clear Mandarin, centered chest resonance, close verses, subtle doubles and natural vibrato. Deep sub bass, sparse broken beats, filtered piano, reversed clean guitar, muted percussion, low strings and soft synth textures. Intro: distant piano and reversed guitar. Verses: exposed voice over a low pulse. Chorus 1 brings broken beats and bass, expanding space rather than volume. Instrumental break fractures and recombines the piano motif. Verse 2 leaves rhythmic gaps; chorus 2 widens layers and deepens bass. Bridge: beat dissolves to bare voice and sparse piano. Final chorus: half-time pulse, low strings and airy male doubles, controlled release. Last repeated line becomes solitary; piano and reversed textures dissolve. Preserve lyric order and core melody with spacious phrasing. Dry Professional Studio Vocal, 48kHz.
+```
 
 ### 4.4 Exclude
 
@@ -219,6 +221,7 @@ Mandarin downtempo trip-hop and ambient art-pop, intimate memory-fragment atmosp
 | 日期 | 音乐版本 | 变更／依据 | 实际反馈与状态 |
 |---|---|---|---|
 | 2026-11-15 | v01-B | 以记忆碎片与依赖感为创意入口，Downtempo Trip-Hop／Ambient Art-Pop | 方案已交付；尚无试听反馈 |
+| 2026-11-15 | v01-B（Style 长度修正） | Style 从 1213 精简至 927 字符，修复 Style 代码块围栏；音乐方向、中文／拼音 Lyrics、Exclude 与参数不变 | 尚无试听反馈；此次为输入长度修正 |
 
 ## 6. 原始资料与关联文件
 
