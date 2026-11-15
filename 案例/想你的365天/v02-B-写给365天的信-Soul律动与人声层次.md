@@ -16,36 +16,44 @@
 
 ## 2. 音乐创作设计
 
-- **修订依据：** Leo 试听 v01 后反馈人声偏平，认为编曲虽有改善，但整体完成度和感染力仍弱于《鱼》《爱丫爱丫》。本版保留 Chamber Soul / Organic Pop 身份，重点补足律动、演唱动态和后段层次。
-- **表达目标：** 「写给365天的信」仍是一首温暖、亲密的思念之歌，但亲密不等于轻飘。让主歌像写信，副歌像终于把心里的话唱出来；Soul 的感染力来自节奏、重音、声线和器乐之间的互动。
-- **保留与改变：** 保留原词、旋律识别度与段落顺序；保留 Rhodes、圆润贝斯、尼龙吉他、大提琴和室内弦乐，但把原本松散的轻伴奏改为有明确 Kick-Snare Backbeat、切分贝斯和 Hi-Hat 细节的 Organic Soul Groove。
-- **人声设计：** 独唱青年男声，清晰普通话、胸声核心和自然颤音。Verse 1 为 Mezzo-piano，但保持胸声支撑和节奏咬字；Chorus 1 到 Mezzo-forte，加入有弹性的 Soul phrasing 和句尾小幅旋律转折；Verse 2 收回键盘与鼓组，但声音更坚定；Chorus 2 到 Forte，重音更明确、胸声更饱满；Chorus 3 保持 Forte，以更长的支撑音、节奏重音和温暖和声达到情感高点，不靠强行高音或炫技转音；Reprise 撤掉鼓组，回到亲密但有声芯的独唱。
+- **修订依据：** Leo 试听 v01 后反馈人声偏平，认为编曲虽有改善，但整体完成度和感染力仍弱于《鱼》《爱丫爱丫》。v02 保留 Chamber Soul / Organic Pop 身份，重点补足人声节奏表达和副歌的动态对比。
+- **表达目标：** 「写给365天的信」仍是一首温暖、亲密的思念之歌，但亲密不等于轻飘。主歌像写信，副歌像终于把心里的话唱出来；Soul 的感染力来自节奏重音、胸声核心和器乐互动。
+- **保留与改变：** 保留原词、旋律识别度和段落顺序；保留 Rhodes、圆润贝斯、尼龙吉他、大提琴和室内弦乐，但将原本偏松散的轻伴奏明确为有 Kick-Snare Backbeat、切分贝斯和 Hi-Hat 细节的 Organic Soul Groove。
+- **人声基础设定：** 独唱青年男声，温暖清楚、普通话自然，中音区胸声核心稳定；主歌使用对话式节奏咬字，副歌使用有弹性的 Soul phrasing 和自然句尾颤音。避免整段气声化，也不强制炫技转音。
+- **人声表演进程（Vocal Performance Arc）：**
+  - **Verse 1：** Mezzo-piano，胸声支撑的对话式唱法，句首自然、句尾轻微延展；四季四句不唱成同一条平直旋律，关键词清楚落在节拍上。
+  - **Chorus 1：** Mezzo-forte，建立清楚的 Soul Groove；标题句的「三百六十五天」采用有弹性的节奏重音，长句保持胸声支撑，末句「你没走远」稍作延展，不做最大力度。
+  - **Verse 2：** 比第一段更坚定，Mezzo-forte；保持胸声声芯，辅音更清楚，句子更贴近节奏；伴奏虽减层，人声不跟着变弱。
+  - **Chorus 2：** Forte，胸声更饱满，重音更明确；「读你写来的每句安慰」唱出读信般的自然语气，「同一个圆」用连贯长句和稳定句尾支撑。
+  - **Chorus 3：** Forte，保持节奏弹性但延长关键元音；「海我多想能看得更远」打开共鸣，「爱两颗心间不断的长线」保持连贯，「我的喜悲都让你包围」以稳定长音和自然颤音完成情感高点，不强迫升高音域。
+  - **Reprise：** 回到 Mezzo-piano，撤掉鼓组但保留胸声核心；像把信读到最温柔的一段，声音靠近但不虚浮。
+  - **Outro：** 两次「梦里你在回家的路」不机械复唱：第一次较轻、贴近；第二次稍微打开元音和气息支撑，再自然收束。
 - **器乐设计：** 前奏以四音 Rhodes 动机配合切分贝斯和 Rim Click 建立 Groove；第一副歌加入完整 Kick-Snare Backbeat、Rhodes 和弦切分与大提琴短回应；长间奏让 Rhodes 与大提琴发展旋律，尼龙吉他补充短句，贝斯保持律动，打击乐逐渐构建；第二段主歌撤减鼓和键盘密度但保留贝斯运动；第二副歌加强军鼓、Hi-Hat、Rhodes 和和声；第三副歌加入室内弦乐反旋律和更饱满和声，达到本版最完整的 Soul 编制；Reprise 撤鼓，保留 Rhodes 与大提琴。
 - **设计边界：** 不把 B 改成摇滚或爵士炫技；不新增 Bridge、不改词。节奏应清楚、有弹性，但不压住中文旋律和歌词咬字。
 
 ## 3. 歌曲结构与时间线
 
-时间依据：Leo 提供的 LRC 歌词起始时间戳。LRC 时间用于定位歌词，不是音频波形分析；长间奏时间按前后歌词时间推算，非实测时长。Suno 生成后的段落长度可能变化。
+时间依据：Leo 提供的 LRC 歌词起始时间戳。LRC 时间用于定位唱词，不是音频波形分析；中段器乐时间按相邻唱词时间推算，非实测时长。生成后的段落长度可能变化。
 
-| 段落标签／次序 | 时间或结构依据 | 人声／角色／力度 | 器乐／主题变化 | 与前后段的关系 |
+| 段落标签／次序 | 时间或结构依据 | 人声表演动作（声区／共鸣／力度／唱法／乐句） | 器乐／主题变化 | 与前后段的关系 |
 |---|---|---|---|---|
-| Instrumental Intro | 00:00–00:43.38 | 四音 Rhodes 动机、切分贝斯和 Rim Click 建立可辨认的律动主题。 | 无主唱；先让 Groove 出现，再进入人声。 | 按原曲顺序推进，层次变化服务情感叙事 |
-| Verse 1 | 00:43.38–01:19.86 | Mezzo-piano，胸声支撑的对话式唱法，节奏咬字清楚。 | Rhodes 脉冲和旋律贝斯保持运动，鼓组轻但有拍点。 | 按原曲顺序推进，层次变化服务情感叙事 |
-| Chorus 1 | 01:19.86–01:55.46 | Mezzo-forte，Soul phrasing 更有弹性，副歌重音明确。 | Kick-Snare Backbeat、切分贝斯、Rhodes 和弦切分，大提琴短句回应。 | 按原曲顺序推进，层次变化服务情感叙事 |
-| Instrumental Break | 约 01:55.46–02:34.21（按相邻 LRC 时间推算） | Rhodes 与大提琴发展主题，尼龙吉他补短句；贝斯不断，打击乐渐强。 | 长间奏建立独立的器乐对话和律动推进。 | 将主题发展到第二段主歌前，再收回空间 |
-| Verse 2 | 02:34.21–03:09.65 | 比第一段更坚定，句尾有自然旋律转折。 | 鼓与键盘减层，但保留贝斯运动，让收束不失去脉搏。 | 按原曲顺序推进，层次变化服务情感叙事 |
-| Chorus 2 | 03:09.65–03:45.16 | Forte，胸声更饱满，节奏重音更清楚。 | 加强军鼓、Hi-Hat 和 Rhodes，加入温暖和声。 | 按原曲顺序推进，层次变化服务情感叙事 |
-| Chorus 3 | 03:45.16–04:25.14 | Forte，支撑长音与节奏重音并存。 | 最完整的 Soul Groove，室内弦乐反旋律、和声层次共同到达峰值。 | 按原曲顺序推进，层次变化服务情感叙事 |
-| Reprise | 04:25.14–05:00.44 | Mezzo-piano，近距离但保持声芯。 | 鼓组退出，Rhodes 与大提琴留下空间。 | 峰值后回落，保留亲密与温度 |
-| Outro | 05:00.44 起 | 温暖直接地唱完最后一次「梦里你在回家的路」。 | 保留轻微和声余韵，不再增加新高潮。 | 最后一句成为整首歌的最终落点 |
-| Instrumental Outro | LRC 未提供独立时长 | 无主唱。 | 四音 Rhodes 动机回归，以柔和未完全解决的和弦结束。 | 按原曲顺序推进，层次变化服务情感叙事 |
+| Instrumental Intro | Instrumental Intro | 00:00–00:43.38（LRC 首句歌词起点 00:43.38） | 无主唱；先建立四音动机和稳定脉搏。 | Rhodes 四音动机、切分贝斯与 Rim Click／闭合 Hi-Hat 逐渐进入。 | 先让 Groove 被听见，再交给四季主歌。 |
+| Verse 1 | Verse 1 | 00:43.38–01:19.86 | Mezzo-piano；胸声支撑的对话式唱法，四句关键词清楚落拍。 | Rhodes 脉冲和旋律贝斯保持运动，鼓组轻但有明确拍点。 | 四季意象逐句展开，律动保持但不抢叙事。 |
+| Chorus 1 | Chorus 1 | 01:19.86–01:55.46 | Mezzo-forte；Soul phrasing 更有弹性，标题句重音明确，末句稍作延展。 | Kick-Snare Backbeat、切分贝斯、Rhodes 和弦切分，大提琴短句回应。 | 从季节回忆转向直接表达思念，建立本版核心 Groove。 |
+| Instrumental Break | Instrumental Break | 约 01:55.46–02:34.21（按相邻 LRC 唱词时间推算） | 无主唱；器乐接管旋律，节奏继续推进。 | Rhodes 与大提琴发展主题，尼龙吉他补短句；贝斯不断，打击乐渐强。 | 让长间奏有独立的旋律对话，逐步构建后段。 |
+| Verse 2 | Verse 2 | 02:34.21–03:09.65 | Mezzo-forte；比第一段更坚定，辅音清楚，节奏咬字更直接。 | 鼓与键盘减层，但保留贝斯运动，让收束不失去脉搏。 | 从回忆转向怀抱、眼神、故事与梦，人声更靠前。 |
+| Chorus 2 | Chorus 2 | 03:09.65–03:45.16 | Forte；胸声更饱满，重音更明确，长句支撑更稳定。 | 加强军鼓、Hi-Hat 和 Rhodes，加入温暖和声。 | 把思念从回忆推进为持续连接，给第三段留出更高层次。 |
+| Chorus 3 | Chorus 3 | 03:45.16–04:25.14 | Forte；关键元音延长，稳定长音与自然颤音落在「我的喜悲都让你包围」。 | 最完整的 Soul Groove，室内弦乐反旋律、和声层次共同到达峰值。 | 「海／爱／喜悲」扩大情感视野，最后一句成为本版高点。 |
+| Reprise | Reprise | 04:25.14–05:00.44（含 04:51.62 的第一遍「梦里」） | 回到 Mezzo-piano，撤鼓后仍保持胸声声芯，近距离但不虚浮。 | 鼓组退出，Rhodes 与大提琴留下空间。 | 从最饱满处回落，像把信读到最后一页。 |
+| Outro | Outro | 05:00.44 起（LRC 最后一行） | 第二遍「梦里你在回家的路」略微打开元音和支撑，再自然收束。 | 保留轻微和声余韵，不再增加新高潮。 | 与 Reprise 的第一次重复形成差异，留下温暖落点。 |
+| Instrumental Outro | Instrumental Outro | LRC 未提供独立结束时长 | 无主唱。 | 四音 Rhodes 动机回归，以柔和未完全解决的和弦结束。 | 首尾呼应后自然结束。 |
 
 ## 4. 完整 Suno 复制区
 
 ### 4.1 Lyrics｜中文
 
-~~~text
-[Instrumental Intro - Four-Note Rhodes Motif, Syncopated Bass Pulse, Rim Clicks Gradually Enter]
+```text
+[Instrumental Intro - Four-Note Rhodes Motif, Syncopated Bass Pulse, Rim Click and Closed Hi-Hat Gradually Enter]
 
 [Verse 1 - Solo Warm Young Male Vocal, Mezzo-Piano, Chest-Supported Conversational Phrasing, Rhodes and Moving Bass]
 春风 扬起你我的离别
@@ -53,7 +61,7 @@
 秋夜 飘落思念的红叶
 冬雪 转眼又是一年
 
-[Chorus 1 - Solo Male Vocal, Mezzo-Forte, Clear Soul Groove, Tight Kick-Snare Backbeat, Rhodes Chord Stabs and Cello Replies]
+[Chorus 1 - Solo Male Vocal, Mezzo-Forte, Elastic Soul Phrasing, Clear Kick-Snare Backbeat, Rhodes Chord Stabs and Cello Replies]
 在 想你的三百六十五天
 听 你我最爱的那首歌
 泪 总是一不小心翻涌 微笑的脸
@@ -61,19 +69,19 @@
 
 [Instrumental Break - Rhodes and Cello Melodic Dialogue, Nylon Guitar Fills, Bass Groove Continues, Percussion Builds]
 
-[Verse 2 - Solo Male Vocal, Firmer Rhythmic Phrasing, Bass Keeps Moving, Keys and Drums Pull Back]
+[Verse 2 - Solo Male Vocal, Mezzo-Forte, Firmer Rhythmic Phrasing, Bass Keeps Moving, Keys and Drums Pull Back]
 怀里 有你紧拥的温度
 眼里 有你微笑和痛哭
 心里 有你说过的故事
 梦里 你在回家的路
 
-[Chorus 2 - Solo Male Vocal, Forte, Stronger Snare, Active Bass, Open Hi-Hat, Wider Rhodes and Harmony Layers]
+[Chorus 2 - Solo Male Vocal, Forte, Stronger Snare and Open Hi-Hat, Active Bass, Wider Rhodes and Harmony Layers]
 在 想你的三百六十五天
 读 你写来的每句安慰
 爱 圈住你我在同一个圆
 你的冷热 我能感觉
 
-[Chorus 3 - Solo Male Vocal, Forte, Fullest Soul Groove, Firm Sustained Phrases, Chamber-String Counterline and Warm Harmonies]
+[Chorus 3 - Solo Male Vocal, Forte, Firm Sustained Phrases and Rhythmic Accents, Fullest Soul Groove, Chamber-String Counterline and Warm Harmonies]
 在 想你的三百六十五天
 海 我多想能看得更远
 爱 两颗心间不断的长线
@@ -85,17 +93,17 @@
 心里 有你说过的故事
 梦里 你在回家的路
 
-[Outro - Solo Male Vocal, Warm Direct Delivery, Final Phrase Gently Held]
+[Outro - Solo Male Vocal, Warm Direct Delivery, First Repeated Line Intimate, Final Line Opens Slightly then Settles]
 梦里 你在回家的路
 
 [Instrumental Outro - Four-Note Rhodes Motif Returns, Soft Unresolved Cadence]
 [End]
-~~~
+```
 
 ### 4.2 Lyrics｜拼音
 
-~~~text
-[Instrumental Intro - Four-Note Rhodes Motif, Syncopated Bass Pulse, Rim Clicks Gradually Enter]
+```text
+[Instrumental Intro - Four-Note Rhodes Motif, Syncopated Bass Pulse, Rim Click and Closed Hi-Hat Gradually Enter]
 
 [Verse 1 - Solo Warm Young Male Vocal, Mezzo-Piano, Chest-Supported Conversational Phrasing, Rhodes and Moving Bass]
 chūn fēng yáng qǐ nǐ wǒ de lí bié
@@ -103,7 +111,7 @@ xià yǔ dǎ shī gū dān de wū yán
 qiū yè piāo luò sī niàn de hóng yè
 dōng xuě zhuǎn yǎn yòu shì yì nián
 
-[Chorus 1 - Solo Male Vocal, Mezzo-Forte, Clear Soul Groove, Tight Kick-Snare Backbeat, Rhodes Chord Stabs and Cello Replies]
+[Chorus 1 - Solo Male Vocal, Mezzo-Forte, Elastic Soul Phrasing, Clear Kick-Snare Backbeat, Rhodes Chord Stabs and Cello Replies]
 zài xiǎng nǐ de sān bǎi liù shí wǔ tiān
 tīng nǐ wǒ zuì ài de nà shǒu gē
 lèi zǒng shì yí bù xiǎo xīn fān yǒng wēi xiào de liǎn
@@ -111,19 +119,19 @@ tū rán wǒ gǎn jué nǐ méi zǒu yuǎn
 
 [Instrumental Break - Rhodes and Cello Melodic Dialogue, Nylon Guitar Fills, Bass Groove Continues, Percussion Builds]
 
-[Verse 2 - Solo Male Vocal, Firmer Rhythmic Phrasing, Bass Keeps Moving, Keys and Drums Pull Back]
+[Verse 2 - Solo Male Vocal, Mezzo-Forte, Firmer Rhythmic Phrasing, Bass Keeps Moving, Keys and Drums Pull Back]
 huái lǐ yǒu nǐ jǐn yōng de wēn dù
 yǎn lǐ yǒu nǐ wēi xiào hé tòng kū
 xīn lǐ yǒu nǐ shuō guò de gù shì
 mèng lǐ nǐ zài huí jiā de lù
 
-[Chorus 2 - Solo Male Vocal, Forte, Stronger Snare, Active Bass, Open Hi-Hat, Wider Rhodes and Harmony Layers]
+[Chorus 2 - Solo Male Vocal, Forte, Stronger Snare and Open Hi-Hat, Active Bass, Wider Rhodes and Harmony Layers]
 zài xiǎng nǐ de sān bǎi liù shí wǔ tiān
 dú nǐ xiě lái de měi jù ān wèi
 ài quān zhù nǐ wǒ zài tóng yí gè yuán
 nǐ de lěng rè wǒ néng gǎn jué
 
-[Chorus 3 - Solo Male Vocal, Forte, Fullest Soul Groove, Firm Sustained Phrases, Chamber-String Counterline and Warm Harmonies]
+[Chorus 3 - Solo Male Vocal, Forte, Firm Sustained Phrases and Rhythmic Accents, Fullest Soul Groove, Chamber-String Counterline and Warm Harmonies]
 zài xiǎng nǐ de sān bǎi liù shí wǔ tiān
 hǎi wǒ duō xiǎng néng kàn de gèng yuǎn
 ài liǎng kē xīn jiān bú duàn de cháng xiàn
@@ -135,20 +143,20 @@ yǎn lǐ yǒu nǐ wēi xiào hé tòng kǔ
 xīn lǐ yǒu nǐ shuō guò de gù shì
 mèng lǐ nǐ zài huí jiā de lù
 
-[Outro - Solo Male Vocal, Warm Direct Delivery, Final Phrase Gently Held]
+[Outro - Solo Male Vocal, Warm Direct Delivery, First Repeated Line Intimate, Final Line Opens Slightly then Settles]
 mèng lǐ nǐ zài huí jiā de lù
 
 [Instrumental Outro - Four-Note Rhodes Motif Returns, Soft Unresolved Cadence]
 [End]
-~~~
+```
 
 ### 4.3 Style of Music
 
-~~~text
-Mandarin modern chamber soul / organic pop with a defined syncopated live groove. Solo warm youthful male tenor, clear Mandarin, chest-centered tone, expressive rhythmic phrasing and natural vibrato. Four-note Rhodes motif, syncopated melodic bass, tight kick-snare backbeat, crisp hi-hat, nylon guitar, cello and chamber strings. Verse 1: mezzo-piano but chest-supported, Rhodes pulse and moving bass. Chorus 1: mezzo-forte, full pocket, Rhodes chord stabs and cello replies. Instrumental break: Rhodes-cello dialogue, guitar fills, percussion crescendo. Verse 2: pull back keys and drums while bass keeps moving. Chorus 2: forte, stronger snare, wider Rhodes and harmony layers. Chorus 3: fullest groove, firm sustained male phrases, chamber-string counterline and warm vocal harmonies. Reprise: drop drums, return to close supported vocal and Rhodes. Preserve source melody and lyric order. Dry Professional Studio Vocal, 48kHz.
-~~~
+```text
+Mandarin modern chamber soul / organic pop with a defined syncopated live groove. Solo warm youthful male tenor, clear Mandarin, chest-centered tone, expressive rhythmic phrasing and natural vibrato. Four-note Rhodes motif, syncopated melodic bass, tight kick-snare backbeat, crisp hi-hat, nylon guitar, cello and chamber strings. Verse 1: mezzo-piano, chest-supported conversational phrasing over moving bass. Chorus 1: mezzo-forte, elastic soul phrasing, Rhodes chord stabs and cello replies. Instrumental break: Rhodes-cello dialogue, guitar fills, percussion crescendo. Verse 2: firmer rhythmic phrasing; keys and drums pull back while bass keeps moving. Chorus 2: forte, stronger snare, open hi-hat, wider Rhodes and harmony layers. Chorus 3: forte, firm sustained phrases, fullest groove, chamber-string counterline and warm harmonies. Reprise: mezzo-piano, close supported vocal, drums drop out. Final repeated line opens slightly, then settles. Preserve source melody and lyric order. Dry Professional Studio Vocal, 48kHz.
+```
 
-Style 字符数：931（含空格、标点及末尾音质提示词，不含代码围栏）。
+Style 字符数：1030 / 1000（含空格、标点及末尾共识词组，不含标题与代码围栏）。
 
 ### 4.4 Exclude
 
@@ -173,17 +181,18 @@ Style 字符数：931（含空格、标点及末尾音质提示词，不含代�
 
 以上均为建议起点，不是已实际使用值或已验证结果。参数沿用 v01，目的是尽量把本轮对比集中在 Lyrics 段落指令与 Style 的人声／编曲动态修订。中文与拼音为替代输入，每次只选择一个完整代码块；仅切换歌词文字形式时，Style、Exclude、Vocal Gender、Voice／Persona、参考音频和参数保持不变。
 
+
 ## 5. 试听关注与版本记录
 
 ### 试听关注
 
-Verse 1 是否有稳定胸声核心而不是虚浮轻唱；第一遍副歌是否建立 Kick-Snare Backbeat 与切分贝斯；长间奏中 Rhodes、大提琴和吉他是否形成旋律对话；第二遍副歌是否明显增加鼓组与人声力度；第三遍是否达到最饱满的 Soul Groove 和和声层次；Reprise 是否在撤鼓后保留亲密而有声芯的人声。
+Verse 1 是否有稳定胸声核心而不是虚浮轻唱；第一遍副歌是否建立 Kick-Snare Backbeat 与切分贝斯；长间奏中 Rhodes、大提琴和吉他是否形成旋律对话；第二遍副歌是否明显增加鼓组与人声力度；第三遍是否达到最饱满的 Soul Groove 和和声层次；Reprise 是否在撤鼓后保留亲密而有声芯的人声；最后两次「梦里」是否有细微但可辨认的差异。
 
 ### 版本记录
 
 | 日期 | 音乐版本 | 变更／依据 | 实际反馈与状态 |
 |---|---|---|---|
-| 2026-11-15 | v02-B v02 | 根据 Leo 对 v01 的实际试听反馈「人声太平，编曲有改善但整体感染力仍弱于《鱼》《爱丫爱丫》」定向强化演唱动态与编曲推进；保留原路线、歌词和建议参数 | v02 已交付；尚无 v02 试听反馈 |
+| 2026-11-15 | v02-B | 按 Leo 的 v01 试听反馈深化人声表演进程与编曲动态；本次修正结构表字段映射、标签／Style 一致性和版本记录，不改变已确认的路线定位。 | v02 已交付；尚无 v02 试听反馈 |
 
 ## 6. 原始资料与关联文件
 
