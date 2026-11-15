@@ -180,9 +180,11 @@ wǒ xiǎng yào tòng kuài de lí kāi wǒ de yī lài
 
 ### 4.3 Style of Music
 
-\`\`\`text
-Mandarin organic pop ballad, heartfelt and intimate, a modern re-production preserving the original melody, phrasing and emotional contour. Warm clear young male tenor, natural Mandarin diction, centered chest resonance, close conversational verses, smooth supported open chorus and restrained natural vibrato. Acoustic guitar and piano are the core: fingerpicked acoustic patterns, warm piano chords and melodic fills, clean electric guitar answering the vocal, round bass, restrained live drums and subtle cello for depth. Intro: piano motif answered by fingerpicked guitar. Verses: sparse close vocal with breathing room. Chorus 1: piano and gentle acoustic strums open the harmony with a soft live groove. Instrumental break: melodic piano-guitar dialogue. Verse 2: altered guitar texture and moving bass. Chorus 2: fuller organic drums and clean guitar counterline. Bridge: strip back to piano and voice, then gradual build. Final chorus: layered guitars, subtle harmony and warm dynamic lift without rock-style blast. Repeated last line returns close and tender; short piano-guitar outro. Preserve lyric timing and pauses. Dry Professional Studio Vocal, 48kHz.
-\`\`\`
+字符数：**923 / 1000**（含空格、标点；只计下方输入正文，不含标题与代码块围栏）。
+
+```text
+Mandarin organic pop ballad; intimate, heartfelt modern remake. Preserve reference melody, phrasing, timing and pauses. Warm clear young male tenor, natural Mandarin, centered chest resonance, conversational verses, supported open choruses, subtle vibrato. Acoustic guitar and piano lead: fingerpicking, gentle strums, warm chords and melodic fills, clean electric guitar replies, round bass, restrained live drums, subtle cello. Intro: piano motif answered by guitar. Verses stay close and spacious. Chorus 1 opens with soft acoustic strums and a gentle live groove. Instrumental break: piano-guitar dialogue. Verse 2 changes guitar texture and bass movement; chorus 2 adds drums and guitar counterlines. Bridge: piano and voice, gradual build. Final chorus: layered guitars and light harmony, warm controlled lift. Repeated last line turns close and tender; short piano-guitar outro. Dry Professional Studio Vocal, 48kHz.
+```
 
 ### 4.4 Exclude
 
@@ -219,6 +221,7 @@ Mandarin organic pop ballad, heartfelt and intimate, a modern re-production pres
 | 日期 | 音乐版本 | 变更／依据 | 实际反馈与状态 |
 |---|---|---|---|
 | 2026-11-15 | v01-A | 原曲现代重新制作；有机吉他与键盘为核心 | 方案已交付；尚无试听反馈 |
+| 2026-11-15 | v01-A（Style 长度修正） | Style 从 1166 精简至 923 字符，修复 Style 代码块围栏；音乐方向、中文／拼音 Lyrics、Exclude 与参数不变 | 尚无试听反馈；此次为输入长度修正 |
 
 ## 6. 原始资料与关联文件
 
