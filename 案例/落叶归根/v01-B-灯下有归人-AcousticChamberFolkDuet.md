@@ -225,7 +225,7 @@ Nà jì jié jiào zuò jì mò
 Bēi bāo sāi mǎn le jiā yòng
 Lù jiù zhè yàng kāi shǐ zǒu
 
-[Pre-Chorus 2 - Both Voices, Closer Two-Part Harmony, More Connected Legato and Breath Support; Cello and Viola Rise]
+[Pre-Chorus 2A - Both Voices, Closer Two-Part Harmony, More Connected Legato and Breath Support; Cello and Viola Rise]
 Rì bú jiàn tài yáng de nuǎn
 Yè bú jiàn yuè guāng de lán
 Bù dé bù xuǎn zé hán lěng de kāi shǐ
