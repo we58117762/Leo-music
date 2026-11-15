@@ -153,10 +153,10 @@ mèng lǐ nǐ zài huí jiā de lù
 ### 4.3 Style of Music
 
 ```text
-Mandarin modern chamber soul / organic pop with a defined syncopated live groove. Solo warm youthful male tenor, clear Mandarin, chest-centered tone, expressive rhythmic phrasing and natural vibrato. Four-note Rhodes motif, syncopated melodic bass, tight kick-snare backbeat, crisp hi-hat, nylon guitar, cello and chamber strings. Verse 1: mezzo-piano, chest-supported conversational phrasing over moving bass. Chorus 1: mezzo-forte, elastic soul phrasing, Rhodes chord stabs and cello replies. Instrumental break: Rhodes-cello dialogue, guitar fills, percussion crescendo. Verse 2: firmer rhythmic phrasing; keys and drums pull back while bass keeps moving. Chorus 2: forte, stronger snare, open hi-hat, wider Rhodes and harmony layers. Chorus 3: forte, firm sustained phrases, fullest groove, chamber-string counterline and warm harmonies. Reprise: mezzo-piano, close supported vocal, drums drop out. Final repeated line opens slightly, then settles. Preserve source melody and lyric order. Dry Professional Studio Vocal, 48kHz.
+Mandarin chamber soul / organic pop, syncopated live groove. Solo warm youthful male tenor, clear Mandarin, chest-centered tone, rhythmic phrasing, natural vibrato. Four-note Rhodes motif, syncopated bass, kick-snare backbeat, crisp hi-hat, nylon guitar, cello, chamber strings. Verse 1: mezzo-piano, chest-supported phrasing over moving bass. Chorus 1: mezzo-forte, elastic soul phrasing, Rhodes stabs and cello replies. Break: Rhodes-cello dialogue, guitar fills, percussion crescendo. Verse 2: firmer rhythm; keys and drums pull back, bass keeps moving. Chorus 2: forte, stronger snare, open hi-hat, wider Rhodes and harmonies. Chorus 3: forte, sustained phrases, fullest groove, string counterline and warm harmonies. Reprise: mezzo-piano, close supported vocal, drums drop out. Final repeated line opens slightly then settles. Preserve source melody and lyric order. Dry Professional Studio Vocal, 48kHz.
 ```
 
-Style 字符数：1030 / 1000（含空格、标点及末尾共识词组，不含标题与代码围栏）。
+Style 字符数：909 / 1000（含空格、标点及末尾共识词组，不含标题与代码围栏）。
 
 ### 4.4 Exclude
 
