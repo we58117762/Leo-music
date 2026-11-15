@@ -212,8 +212,10 @@ qián yì shí nà cái shì wǒ zhēn ài
 
 ### 4.3 Style of Music
 
+字符数：**737 / 1000**（含空格、标点；只计下方输入正文，不含标题与代码块围栏）。
+
 ~~~text
-Mandarin coastal Bossa Pop, warm, relaxed and bittersweet, like a seaside letter at dusk. Solo warm clear young male tenor, natural Mandarin diction, supported but easy midrange, relaxed slightly behind-the-beat phrasing and subtle vibrato. Nylon-string guitar carries a syncopated Bossa Nova pattern, rounded upright bass, soft brushed drums, shaker and warm piano voicings. A mellow rounded tenor saxophone is the second narrative voice: a short opening theme, brief replies after vocal phrases, a melodic lead through the extended instrumental break, then a restrained return in the coda. Verses stay intimate and lightly swung. Choruses open gently without turning into a big power ballad. Bridge pulls the groove back to voice, piano and bass. Final chorus restores the full gentle Bossa pocket; sax fills only between vocal lines. Preserve lyric order and core melodic identity while allowing a fresh relaxed rhythmic interpretation. Dry Professional Studio Vocal, 48kHz.
+Mandarin coastal Bossa Pop; warm, relaxed and bittersweet, like a seaside letter at dusk. Solo clear warm young male tenor, natural Mandarin, easy supported midrange, relaxed behind-the-beat phrasing. Nylon-string guitar leads syncopated Bossa groove with rounded upright bass, brushed drums, shaker and warm piano. Mellow tenor sax is a second melodic voice: short intro theme, brief vocal replies, lead through the instrumental break, return in coda. Intimate lightly swung verses; choruses open gently. Bridge strips back to voice, piano and bass. Final chorus restores the gentle Bossa groove; sax fills only between vocal lines. Preserve lyric order and core melody with fresh relaxed phrasing. Dry Professional Studio Vocal, 48kHz.
 ~~~
 
 ### 4.4 Exclude
@@ -251,6 +253,7 @@ Mandarin coastal Bossa Pop, warm, relaxed and bittersweet, like a seaside letter
 | 日期 | 音乐版本 | 变更／依据 | 实际反馈与状态 |
 |---|---|---|---|
 | 2026-11-15 | v01-B | 以海岸意象为创意入口，Coastal Bossa Pop，并由 Tenor Sax 担任第二叙事声音 | 方案已交付；尚无试听反馈 |
+| 2026-11-15 | v01-B（Style 长度修正） | Style 从 977 精简至 737 字符，保留 Bossa 律动与 Tenor Sax 的前奏主题、句尾回应、间奏主旋律和尾声回收；Lyrics、Exclude 与参数不变 | 尚无试听反馈；此次为输入长度修正 |
 
 ## 6. 原始资料与关联文件
 
