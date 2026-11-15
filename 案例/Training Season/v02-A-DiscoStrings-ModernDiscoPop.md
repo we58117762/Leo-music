@@ -14,7 +14,7 @@
 | 音乐版本与路线 | v02-A；Disco Strings·Modern Disco-Pop |
 | 创建／更新日期 | 2026-11-15 |
 | 状态 | 方案已交付／尚无试听反馈 |
-| 唱词来源与改词状态 | Leo 上传的英文 LRC；保留原词、顺序与重复，不改词 |
+| 唱词来源与改词状态 | Leo 提供的英文同音拼写版；按用户文本替换唱词，方括号内段落／演唱／编曲指令保持原样；原始正字 LRC 单独归档 |
 | 资料核验范围 | 已读取完整 LRC 与时间戳；未取得可播放音频 |
 | 共识核对日期 | 2026-11-15 |
 
@@ -53,77 +53,76 @@
 
 ## 4. 完整 Suno 复制区
 
-### 4.1 Lyrics｜原文（英文）
+### 4.1 Lyrics｜音近拼写版（英文发音辅助）
 
 ~~~text
 [Instrumental Intro - Tight Four-on-the-Floor Kick, Elastic Bass Groove, Crisp Claps and Bright Synth Stabs]
 
 [Verse 1 - Solo Youthful Male Tenor, Mezzo-Piano to Mezzo-Forte, Supported Midrange, Conversational Rhythmic Bite]
-Are you, someone that I can give my heart to?
-Or just the poison that I’m drawn to?
-It can be hard to tell the difference late at night.
-Play fair, is that a compass in your nature?
-Or are you tricky cause I been there
-And baby I don’t need to learn that lesson twice.
+Air ewe, sum won that eye can giv mai hart too?
+Ore just thuh poison that I’m drawn to?
+It can bee hard two tell thuh diff'rence lait at nite.
+Play fair, iz that uh cumpus inn yer naycher?
+Ore ar ewe trick-ee cuz eye bin thair
+And bay-bee eye don’t need two lern that lesson twice.
 
 [Pre-Chorus - Male Vocal Crescendo, Firmer Chest Support, Brief Pause Before the Hook]
-But if you really wanna go there…
-You should know I
+But if ewe reel-ee wanna go thair…
+Yew shood no eye
 
 [Chorus 1 - Mezzo-Forte, Clear Chest Core, Precise Rhythmic Accents, Open but Controlled Male Lead]
-Need someone to hold me close
-Deeper than I’ve ever known
-Whose love feels like a rodeo
-Knows just how to take control
-When I’m vulnerable
-He’s straight talking to my soul
-Conversation overload, got me feeling vertigo
+Kneed sum won two holed mee klohs
+Deeper than eye've ever noan
+Who's luv feels lyke uh row-dee-oh
+Nose just how two taik con-trohl
+Wen eye'm vuln-er-uh-bull
+Hez strait tawking two mai sole
+Conver-say-shun over-load, got mee feelin verti-go
 
 [Post-Chorus 1 - Forward Rhythmic Placement, Crisp Diction, Confident Playful Male Hook]
-Are you somebody who can go there?
-Cause I don’t wanna have to show ya
-if that aint you then let me know yeah
-Cause training season's over
+Air ewe sum-body hoo can go thair?
+Cuz eye don't wanna hav two show ya
+Iff that ain't ewe then let mee no yeah
 
 [Verse 2 - Youthful Male Lead, Mezzo-Piano to Mezzo-Forte, Firmer Chest Core, Assured Legato]
-I tried, to see my lovers in a good light
-Don’t wanna do it just to be nice
-Don’t wanna have to teach you how to love me right.
-I hope, it hits me like an arrow
-Someone with some potential
-Is it too much to ask for, who understands I
+Eye tryed, two see mai luvvers inn uh good lite
+Doan't wanna doo itt just two bee nice
+Doan't wanna hav two teach ewe how two luv mee right.
+Eye hope, itt hits mee lyke an arrow
+Sum won with sum potential
+Izz itt two much two ask for, hoo understands eye
 
 [Chorus 2 - Mezzo-Forte to Forte, Stronger Chest Resonance, Sharper Rhythmic Accents]
-Need someone to hold me close
-Deeper than I’ve ever known
-Whose love feels like a rodeo
-Knows just how to take control
-When I’m vulnerable
-He’s straight talking to my soul
-Conversation overload, got me feeling vertigo
-Are you somebody who can go there?
-Cause I don’t wanna have to show ya
-if that aint you then let me know yeah
-Cause training season’s over
+Kneed sum won two holed mee klohs
+Deeper than eye've ever noan
+Who's luv feels lyke uh row-dee-oh
+Nose just how two taik con-trohl
+Wen eye'm vuln-er-uh-bull
+Hez strait tawking two mai sole
+Conver-say-shun over-load, got mee feelin verti-go
+Air ewe sum-body hoo can go thair?
+Cuz eye don't wanna hav two show ya
+Iff that ain't ewe then let mee no yeah
+Cuz trayning see-zun's oh-ver
 
 [Bridge - Clipped Challenge-Like Male Phrasing, Progressive Accents, Suspended Final Question]
-Can you compete
-Now is your time
-Run when you hear that whistle blow
-Are you on my team
-Or stuck on the sidelines
-Waiting for someone to tell you to go?
-For someone to tell you to go
+Can ewe compete
+Now iz yer thyme
+Run wen ewe hear that whistle bloe
+Air ewe on mai teem
+Ore stuck on the side-lines
+Wayting for sum won two tell ewe two go?
+For sum won two tell ewe two go
 
 [Final Refrain - Forte Supported Upper-Mid Mixed Voice, Clear Consonants, Confident Short Ending]
-You should know I
-Need someone to hold me close deeper than I’ve ever known
-Whose love feels like a rodeo
-Knows just how to take control
-When I’m vulnerable
-He’s straight talking to my soul
-Conversation overload
-Cause training season’s over
+Yew shood no eye
+Kneed sum won two holed mee klohs deeper than eye've ever noan
+Who's luv feels lyke uh row-dee-oh
+Nose just how two taik con-trohl
+Wen eye'm vuln-er-uh-bull
+Hez strait tawking two mai sole
+Conver-say-shun over-load
+Cuz trayning see-zun's oh-ver
 ~~~
 
 ### 4.2 Lyrics｜拼音
@@ -173,6 +172,7 @@ Modern disco-pop with a polished male lead and a rich layered arrangement. Youth
 |---|---|---|---|
 | 2026-11-15 | v01-A | 原曲现代 Disco-Pop 男声重制，鼓组与节奏组偏突出，合成器／弦乐角色不够明确 | Leo 试听反馈：配器听感几乎只有鼓，其他合成器与弦乐不明显 |
 | 2026-11-15 | v02-A | 在保留 v01 人声表演进程和 Disco-Pop 身份的基础上，重做合成器、弦乐、Rhodes 与 Bass 的分工和段落发展 | 新方案已交付；待试听 |
+| 2026-11-15 | v02-A Lyrics 更新 | 按 Leo 提供的英文同音拼写版替换 4.1 唱词；所有方括号内的段落、人声及器乐描述原样保留 | 已更新；待 Leo 重新生成试听 |
 
 ## 6. 原始资料与关联文件
 
