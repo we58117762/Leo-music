@@ -64,12 +64,16 @@
 任寂寞侵犯一遍一遍
 天空划着长长的思念
 
+[Instrumental Break 1 - Electric Guitar Theme, Piano Octaves, Live Drum Fill, Strings Rise]
+
 [Verse 2 - Solo Male High Tenor, Mezzo-Forte, Firmer Chest Resonance, Brighter Phrase Ends, Bass and Live Drums Enter]
 我的天空可有悬着想的云
 你的天空可会有冷的月
 放逐在世界的另一边
 任寂寞占据一夜一夜
 天空藏着深深的思念
+
+[Instrumental Break 2 - Guitar Lead Motif, Tom Fill, Ascending Strings, Build into Repeated Hook]
 
 [Pre-Chorus 1 - Solo Male High Tenor, Mezzo-Forte, Upper-Mid Chest-Mix, First Repeated 'My Sky' Opens into a Sustained Phrase]
 我的天空 我的天空
@@ -105,12 +109,16 @@ piāo liú zài shì jiè de lìng yì biān
 rèn jì mò qīn fàn yí biàn yí biàn
 tiān kōng huá zhe cháng cháng de sī niàn
 
+[Instrumental Break 1 - Electric Guitar Theme, Piano Octaves, Live Drum Fill, Strings Rise]
+
 [Verse 2 - Solo Male High Tenor, Mezzo-Forte, Firmer Chest Resonance, Brighter Phrase Ends, Bass and Live Drums Enter]
 wǒ de tiān kōng kě yǒu xuán zhe xiǎng de yún
 nǐ de tiān kōng kě huì yǒu lěng de yuè
 fàng zhú zài shì jiè de lìng yì biān
 rèn jì mò zhàn jù yí yè yí yè
 tiān kōng cáng zhe shēn shēn de sī niàn
+
+[Instrumental Break 2 - Guitar Lead Motif, Tom Fill, Ascending Strings, Build into Repeated Hook]
 
 [Pre-Chorus 1 - Solo Male High Tenor, Mezzo-Forte, Upper-Mid Chest-Mix, First Repeated 'My Sky' Opens into a Sustained Phrase]
 wǒ de tiān kōng, wǒ de tiān kōng
