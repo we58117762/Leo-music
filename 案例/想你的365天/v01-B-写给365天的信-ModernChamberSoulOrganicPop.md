@@ -127,7 +127,7 @@ hǎi wǒ duō xiǎng néng kàn de gèng yuǎn
 ài liǎng kē xīn jiān bú duàn de cháng xiàn
 wǒ de xǐ bēi dōu ràng nǐ bāo wéi
 
-[Final Chorus - Tender but Firm Male Vocal, Layered Warm Harmonies, Rich Chamber Soul Arrangement]
+[Reprise - Tender Male Vocal, Layered Warm Harmonies, Chamber Soul Arrangement Gradually Recedes]
 huái lǐ yǒu nǐ jǐn yōng de wēn dù
 yǎn lǐ yǒu nǐ wēi xiào hé tòng kǔ
 xīn lǐ yǒu nǐ shuō guò de gù shì
