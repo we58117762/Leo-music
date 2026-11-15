@@ -142,10 +142,10 @@ Cuz trayning see-zun's oh-ver
 
 ### 4.3 Style of Music
 
-实测字符数：**945 / 1000**（含空格、标点及末尾共识词组）。
+实测字符数：**907 / 1000**（含空格、标点及末尾共识词组）。
 
 ~~~text
-Piano-led modern chamber pop, retaining the song's confident dance-pop character while shifting momentum from drums to instrumental interplay. Solo youthful male tenor, clear diction, centered chest resonance, agile phrasing. Acoustic grand piano drives the pulse with syncopated broken chords, offbeat accents and upper-register motifs. String quartet: first violin plays lyrical replies and counter-melodies; second violin adds rhythmic figures; viola moves through inner harmonies; cello alternates pizzicato pulse, short bowed patterns and lyrical low lines. Warm melodic bass supports piano and cello. Sparse drums: light kick and rim accents only where needed, never a continuous heavy beat. Verses stay nimble; choruses open through piano voicings and independent string lines, not louder drums. Bridge strips back to piano and cello before strings rise into the final refrain. Tight ensemble ending. Dry Professional Studio Vocal, 48kHz.
+Piano-led modern chamber pop with the song's confident dance-pop character; momentum comes from instrumental interplay, not drums. Solo youthful male tenor, clear diction, centered chest resonance, agile phrasing. Acoustic grand piano drives syncopated broken chords, offbeat accents and recurring upper-register motifs. String quartet: first violin plays lyrical replies and counter-melodies; second violin adds rhythmic figures; viola moves inner harmonies; cello alternates pizzicato pulse, short bowed patterns and lyrical low lines. Warm melodic bass supports piano and cello. Sparse kick and rim accents only where needed, never a continuous heavy beat. Verses stay nimble; choruses open through piano voicings and independent string lines, not louder drums. Bridge strips back to piano and cello before strings rise into the final refrain. Tight ensemble ending. Dry Professional Studio Vocal, 48kHz.
 ~~~
 
 ### 4.4 Exclude
