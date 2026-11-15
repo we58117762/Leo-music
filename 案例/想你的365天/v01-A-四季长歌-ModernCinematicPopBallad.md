@@ -127,7 +127,7 @@ hǎi wǒ duō xiǎng néng kàn de gèng yuǎn
 ài liǎng kē xīn jiān bú duàn de cháng xiàn
 wǒ de xǐ bēi dōu ràng nǐ bāo wéi
 
-[Final Chorus - Warm Powerful Male Lead, Full Cinematic Arrangement, Sustained Phrases, Emotional Peak]
+[Reprise - Warm Male Lead, Full Cinematic Arrangement Gradually Recedes, Sustained Phrases]
 huái lǐ yǒu nǐ jǐn yōng de wēn dù
 yǎn lǐ yǒu nǐ wēi xiào hé tòng kǔ
 xīn lǐ yǒu nǐ shuō guò de gù shì
