@@ -83,7 +83,6 @@ Conversation overload, got me feeling vertigo
 Are you somebody who can go there?
 Cause I don’t wanna have to show ya
 if that aint you then let me know yeah
-Cause training season's over
 
 [Verse 2 - Youthful Male Lead, Mezzo-Piano to Mezzo-Forte, Firmer Chest Core, Assured Legato]
 I tried, to see my lovers in a good light
@@ -104,6 +103,7 @@ Conversation overload, got me feeling vertigo
 Are you somebody who can go there?
 Cause I don’t wanna have to show ya
 if that aint you then let me know yeah
+Cause training season’s over
 
 [Bridge - Clipped Challenge-Like Male Phrasing, Progressive Accents, Suspended Final Question]
 Can you compete
