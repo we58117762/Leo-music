@@ -56,7 +56,7 @@
 ### 4.1 Lyrics｜原文（英文）
 
 ~~~text
-[Instrumental Intro - Deep Rounded Sub Bass Pulse, Broken Beat Drums, Muted Guitar Chops and Dark Rhodes Chords]
+[Instrumental Intro - Tight Four-on-the-Floor Kick, Elastic Bass Groove, Crisp Claps and Bright Synth Stabs]
 
 [Verse 1 - Solo Youthful Male Tenor, Close Conversational Midrange, Mezzo-Piano, Firm Chest Core, Syncopated Phrasing]
 Are you, someone that I can give my heart to?
@@ -83,7 +83,6 @@ Conversation overload, got me feeling vertigo
 Are you somebody who can go there?
 Cause I don’t wanna have to show ya
 if that aint you then let me know yeah
-Cause training season's over
 
 [Verse 2 - Close Male Lead, Mezzo-Forte, Fuller Chest Resonance, Firmer Phrase Endings]
 I tried, to see my lovers in a good light
@@ -104,6 +103,7 @@ Conversation overload, got me feeling vertigo
 Are you somebody who can go there?
 Cause I don’t wanna have to show ya
 if that aint you then let me know yeah
+Cause training season’s over
 
 [Bridge - Percussive Challenge-Like Delivery, Short Pauses Against the Beat, Progressive Intensity]
 Can you compete
