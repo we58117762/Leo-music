@@ -46,7 +46,7 @@
 
 ### 4.1 Lyrics｜中文
 
-\`\`\`text
+```text
 [Instrumental Intro - Distant Felt Piano Fragments, Reversed Clean Guitar Texture, Deep Soft Pulse]
 
 [Verse 1A - Close Intimate Young Male Vocal, Sparse Piano Fragments, Low Ambient Pulse]
@@ -109,11 +109,11 @@
 
 [Instrumental Outro - Reversed Piano Tail, Soft Ambient Decay, Unresolved Space]
 [End]
-\`\`\`
+```
 
 ### 4.2 Lyrics｜拼音
 
-\`\`\`text
+```text
 [Instrumental Intro - Distant Felt Piano Fragments, Reversed Clean Guitar Texture, Deep Soft Pulse]
 
 [Verse 1A - Close Intimate Young Male Vocal, Sparse Piano Fragments, Low Ambient Pulse]
@@ -176,7 +176,7 @@ wǒ xiǎng yào tòng kuài de lí kāi wǒ de yī lài
 
 [Instrumental Outro - Reversed Piano Tail, Soft Ambient Decay, Unresolved Space]
 [End]
-\`\`\`
+```
 
 ### 4.3 Style of Music
 
@@ -221,7 +221,7 @@ Mandarin downtempo trip-hop / ambient art-pop; intimate memory fragments. Solo w
 | 日期 | 音乐版本 | 变更／依据 | 实际反馈与状态 |
 |---|---|---|---|
 | 2026-11-15 | v01-B | 以记忆碎片与依赖感为创意入口，Downtempo Trip-Hop／Ambient Art-Pop | 方案已交付；尚无试听反馈 |
-| 2026-11-15 | v01-B（Style 长度修正） | Style 从 1213 精简至 927 字符，修复 Style 代码块围栏；音乐方向、中文／拼音 Lyrics、Exclude 与参数不变 | 尚无试听反馈；此次为输入长度修正 |
+| 2026-11-15 | v01-B（Style 长度修正） | Style 从 1213 精简至 927 字符，修复 Style 围栏，并将中文／拼音 Lyrics 的转义围栏修复为正常 Markdown 代码块；音乐方向、中文／拼音 Lyrics、Exclude 与参数不变 | 尚无试听反馈；此次为输入长度修正 |
 
 ## 6. 原始资料与关联文件
 
